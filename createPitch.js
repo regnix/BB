@@ -1,4 +1,4 @@
-unction createPitch() {
+function createPitch() {
     var x, y, html, element;
     for (y = 0; y < 15; y++) {
         for (x = 0; x < 26; x++) {
