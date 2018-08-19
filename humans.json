@@ -1,0 +1,64 @@
+{
+  "Race": "Human",
+  "Re-rolls": {
+    "Max": 8,
+    "Cost": 50000
+  },
+  "Positions": {
+    "Lineman": {
+      "MA": 6,
+      "ST": 3,
+      "AG": 3,
+      "AV": 8,
+      "Skills": "None",
+      "Max": 16,
+      "Cost": 5000,
+      "Normal": "G",
+      "Double": "A|S|P"
+    },
+    "Catcher": {
+      "MA": 8,
+      "ST": 2,
+      "AG": 3,
+      "AV": 7,
+      "Skills": "Catch|Dodge",
+      "Max": 4,
+      "Cost": 60000,
+      "Normal": "G|A",
+      "Double": "S|P"
+    },
+    "Thrower": {
+      "MA": 6,
+      "ST": 3,
+      "AG": 3,
+      "AV": 8,
+      "Skills": "Pass|Sure Hands",
+      "Max": 2,
+      "Cost": 70000,
+      "Normal": "G|P",
+      "Double": "A|S"
+    },
+    "Blitzer": {
+      "MA": 7,
+      "ST": 3,
+      "AG": 3,
+      "AV": 8,
+      "Skills": "Block",
+      "Max": 4,
+      "Cost": 90000,
+      "Normal": "G|S",
+      "Double": "A|P"
+    },
+    "Ogre": {
+      "MA": 5,
+      "ST": 5,
+      "AG": 2,
+      "AV": 9,
+      "Skills": "Bone-head|Loner|Mighty Blow|Thick Skull|Throw Team-mate",
+      "Max": 1,
+      "Cost": 140000,
+      "Normal": "S",
+      "Double": "G|A|P"
+    }
+  }
+}
